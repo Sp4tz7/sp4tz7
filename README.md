@@ -1,6 +1,6 @@
 # David Siker - Full-Stack devloper
 
-[![Header](https://raw.githubusercontent.com/sp4tz7/sp4tz7/master/sp4tz7.jpg "Header")](https://siker.ch/)
+[![Header](https://raw.githubusercontent.com/sp4tz7/sp4tz7/master/sp4tz.jpg "Header")](https://siker.ch/)
 
 ## Hello, mates! 
 
