@@ -1,10 +1,14 @@
 # David Siker - Full-Stack devloper
 
+[![Header](https://raw.githubusercontent.com/sp4tz7/sp4tz7/master/ds.jpg "Header")](https://martinheinz.dev/)
+
 ## Hello, mates! 
+
 My name is David Siker and I'm a Full-Stack Devloper. Im from Switzerland, married, 2 boys and currently working at Magneticlab.
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]
 
 ## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/Platform-Windows-informational?style=flat&logo=windows&logoColor=white&color=0b7cbd)
 ![](https://img.shields.io/badge/Platform-Linux-informational?style=flat&logo=linux&logoColor=white&color=0b7cbd)
 ![](https://img.shields.io/badge/Platform-Raspberry_PI-informational?style=flat&logo=raspberry-pi&logoColor=white&color=0b7cbd)
