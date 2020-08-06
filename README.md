@@ -1,6 +1,6 @@
-# David Siker - Full Stak devloper
+# David Siker - Full-Stack devloper
 
-## Hello, mats! 
+## Hello, mates! 
 My name is David Siker and I'm a Full-Stack Devloper. Im from Switzerland, married, 2 boys and currently working at Magneticlab.
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]
 
@@ -24,7 +24,7 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp4tz7&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=0b7cbd&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/sp4tz7/sp4tz7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sp4tz7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=0b7cbd&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sp4tz7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=0b7cbd&bg_color=1d1f21" alt="David's GitHub Stats" />
 </a>
 
 <a href="https://github.com/sp4tz7/OC_P5">
