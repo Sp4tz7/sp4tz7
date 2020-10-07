@@ -4,7 +4,7 @@
 
 ## Hello, mates! 
 
-My name is David Siker and I'm a Full-Stack Devloper. Im from Switzerland, married, 2 boys and currently working at Magneticlab.
+My name is David Siker and I'm a Full-Stack Developer. Im from Switzerland, married, 2 boys and currently working at Magneticlab.
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]
 
 ## 🔧 Technologies & Tools
